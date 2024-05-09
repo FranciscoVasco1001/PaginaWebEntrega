@@ -1,0 +1,42 @@
+.formulario{
+        margin-left: 20%;
+        margin-top: 3%;
+        border: 2px solid black;
+        margin-right: 30%;
+        background-color: whitesmoke;
+}
+.form-control{
+        background-color: lightgrey;
+}
+body{
+         background-color: lightcyan;
+
+}
+
+table{
+  margin-top: 5%;
+  margin-left: 35%;
+}
+
+td{
+  border: 1px solid lightgrey;
+}
+.scond{
+  background-color: lightgreen;
+}
+option{
+
+  right: 2%;
+}
+.nav-item{
+  padding: 0 1rem;
+}
+#titulo{
+  margin-left: 35%;
+  margin-top: 3%;
+  font-style: italic;
+}
+#pestañas {
+  background-color: wheat;
+  border: 1px solid whitesmoke-;
+}
